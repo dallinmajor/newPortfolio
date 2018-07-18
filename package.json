@@ -1,0 +1,22 @@
+{
+  "name": "newportfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dallinmajor/newPortfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dallinmajor/newPortfolio/issues"
+  },
+  "homepage": "https://github.com/dallinmajor/newPortfolio#readme",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
