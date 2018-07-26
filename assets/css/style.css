@@ -12,10 +12,24 @@ html, body {
 }
     
 .sectionOne_img {
-    background-image: url(../images/weddingBackground.jpg);
+    /* background-image: url(../images/weddingBackground.jpg);
     background-size: cover;
+    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
+    background-attachment: fixed; */
+
+    background-color: white;
+}
+
+.downArrow {
+    font-size:60px;
+    position: absolute;
+    bottom: 30px;
+    margin: 0 48%;
+    color: black;
+    z-index: 10px;
+    opacity: 0.3;
 }
 
 .tint {
@@ -26,7 +40,7 @@ html, body {
 .sectionTwo {
     width: 100%;
     height: 40%;
-    background-color: black;
+    background-color: rgb(53, 53, 53);
 }
 
 .aboutMePhoto {
@@ -69,15 +83,10 @@ html, body {
 }
 
 .myNav {
+    background-color: black;
     width: 100%;
     position: fixed;
     z-index: 99;
-    padding: 10px;
-    padding-top: 2%;
-}
-
-.navAdjusted {
-    background-color: black;
     padding: 3px 10px;
     padding-top: 0.5%;
 }
