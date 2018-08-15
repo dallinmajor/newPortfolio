@@ -64,6 +64,13 @@ html, body {
    background-color: black;
 }
 
+h3 {
+    color: white;
+    font-family: 'Vast Shadow', cursive;
+    font-family: 'Bowlby One SC', cursive;
+    font-family: 'Oxygen Mono', monospace;
+}
+
 .name {
     color: white;
     position: relative;
